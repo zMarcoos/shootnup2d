@@ -1,0 +1,3 @@
+Isis: 10
+luiza: 2
+asdasdadas: 0
